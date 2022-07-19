@@ -3,9 +3,9 @@
 group project with the amazing ![@Radel-24](https://github.com/Radel-24) :sunglasses:
 
 ## Table of Contents
-1. ![Task](https://github.com/tobbel42/ft_miniRT/edit/main/README.md#task)
-2. ![Usage] (https://github.com/tobbel42/ft_miniRT/edit/main/README.md#usage)
-3. ![Final Score] (https://github.com/tobbel42/ft_miniRT/edit/main/README.md#final-score)
+1. ![Task](https://github.com/tobbel42/ft_miniRT/blob/main/README.md#task)
+2. ![Usage](https://github.com/tobbel42/ft_miniRT/blob/main/README.md#usage)
+3. ![Final Score](https://github.com/tobbel42/ft_miniRT/blob/main/README.md#final-score)
 
 ## Task
 
