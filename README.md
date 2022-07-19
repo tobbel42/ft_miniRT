@@ -2,12 +2,7 @@
 
 group project with the amazing ![@Radel-24](https://github.com/Radel-24) :sunglasses:
 
-## Table of Contents
-1. ![Task](#task)
-2. ![Usage](#usage)
-3. ![Final Score](#final-score)
-
-## Task
+## Description
 
 We implemented a ray tracer in C using a simple graphics library(RGBA value for each pixel is set individually).<br>
 Using a scene file, the user can place spheres, planes and cylinders of different sizes and colors.<br>
