@@ -2,6 +2,11 @@
 
 group project with the amazing ![@Radel-24](https://github.com/Radel-24) :sunglasses:
 
+## Table of Contents
+1. ![Task](https://github.com/tobbel42/ft_miniRT/edit/main/README.md#task)
+2. ![Usage] (https://github.com/tobbel42/ft_miniRT/edit/main/README.md#usage)
+3. ![Final Score] (https://github.com/tobbel42/ft_miniRT/edit/main/README.md#final-score)
+
 ## Task
 
 We implemented a ray tracer in C using a simple graphics library(RGBA value for each pixel is set individually).<br>
