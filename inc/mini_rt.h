@@ -14,8 +14,8 @@
 # include "object.h"
 
 //size of the output image
-# define IMG_X 1000
-# define IMG_Y 1000
+# define IMG_X 1920
+# define IMG_Y 1080
 
 typedef struct s_data
 {
