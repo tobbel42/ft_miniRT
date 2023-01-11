@@ -17,8 +17,6 @@ For the bonus, we implemented the full ![Phong illumination Model](https://en.wi
 
 ![balls scene](/images/balls.png)
 
-For detailed Information, check out the ![subject file](/en.subject.pdf)
-
 ## Usage
 
 download the git repository and move into the directory
